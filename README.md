@@ -4,7 +4,7 @@ Meu nome é **Júlio César**
 
 Sou aluno do componente curricular de pensamento computacional pela rede estadual de educação do Paraná
 
-Utilizo em aula a plataforma [ALURA] (https://www.alua.com.br)
+Utilizo em aula a plataforma [ALURA](https://www.alua.com.br)
 
 ###Você pode entrar em contato comigo
 
